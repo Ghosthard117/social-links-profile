@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/social-link-2FnW1A954q).
 
 ## Table of contents
 
@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Links
 
-- Repo URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Here](https://your-live-site-url.com)
-- Frontend mentor solution URL: [Frontend mentor](https://your-live-site-url.com)
+- Repo URL: [Github](https://github.com/Ghosthard117/social-links-profile)
+- Live Site URL: [Here](https://ghosthard117.github.io/social-links-profile/)
+- Frontend mentor solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/social-link-2FnW1A954q)
 
 ## My process
 
